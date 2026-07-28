@@ -1,21 +1,99 @@
-# 💫 About Me:
-Hi, I'm Anish M, a Computer Science Engineering student passionate about Cybersecurity, Artificial Intelligence, and System-Level Programming.<br><br>🔐 I enjoy building real-time security tools and exploring how systems can be protected against modern threats.<br>🧠 Currently learning advanced cybersecurity concepts and strengthening my problem-solving skills through DSA.<br>🚀 Aspiring to work on impactful security solutions at top tech companies.<br><br>I believe in learning by building — and I’m always working on something exciting.
+<!-- CYBERPUNK BANNER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=260&section=header&text=ANISH%20M&fontSize=55&fontColor=00ffcc&animation=fadeIn"/> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=AnishM-0786&label=Profile%20Views&color=00ffcc&style=for-the-badge"/> </p> <h1 align="center">Hi 👋, I'm ANISH M</h1> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;750%2B+LeetCode+Problems;Top+13.75%25+Globally;Hackathon+Participant;Building+Real+World+Projects" /> </div>
+<!-- MATRIX ANIMATION --> <p align="center"> <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="900"> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:000000&height=120&section=header&text=About%20Me&fontSize=35&fontColor=00ffcc"/> </p>
 
+🎓 B.E Computer Science Engineering 🏫 Chennai Institute of Technology, Tamil Nadu (Aug 2024 – May 2028) | CGPA: 8.0/10
 
-## 🌐 Socials:
-[![PORTFOLIO](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://anishmportfolio.vercel.app/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anish_nair006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-m-1b1ab4329/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Greedy_Vermicelli532/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnishM260162) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://leetcode.com/u/ANISH_M_/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:programmeranish006@gmail.com) 
+💻 Passionate about
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=flat-square&logo=Puppeteer&logoSize=auto&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anish-M0786&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anish-M0786&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-M0786&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Full Stack Development
+Artificial Intelligence & Machine Learning
+Competitive Programming
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🔥 Achievements
 
----
-[![](https://visitcount.itsvg.in/api?id=Anish-M0786&icon=0&color=0)](https://visitcount.itsvg.in)
+🧠 750+ LeetCode Problems | Max Rating: 1700 | Top 13.75% Globally
+🧠 Active CodeChef Competitive Programmer | Max Rating: 1234
+🏆 All India Developers Challenge — Participant (Jan 2024)
+🏆 Smart India Hackathon 2025 — Participant
+🏆 Adobe India Hackathon — Participant
+<!-- AI ANIMATION --> <p align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="650"/> </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=header&text=Tech%20Stack&fontSize=35&fontColor=00ffcc"/>
+💻 Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css"/> </p>
+🌐 Frameworks & Libraries
+<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,flask,fastapi,flutter,tensorflow,opencv"/> </p>
+🗄 Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql"/> </p>
+🛠 Tools & Platforms
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode"/> </p>
+🧠 AI / ML
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+LoRA Fine-Tuning • Agent Workflows • Prompt Engineering • Model Evaluation • scikit-learn • NLP
+
+<!-- DEVELOPER CODING ANIMATION --> <p align="center"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650"/> </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:000000&height=120&section=header&text=Internships&fontSize=35&fontColor=00ffcc"/>
+🤖 Artificial Intelligence Intern — Codec Technologies India
+
+May 2026 – Jun 2026
+
+🚀 Completed an industry AI internship covering applied fundamentals and hands-on model workflows.
+
+🔹 Gained hands-on experience with Python, model development, and end-to-end AI workflows 🔹 Designed and implemented a capstone AI project applying learned techniques 🔹 Applied real-world AI development practices through guided practical assignments
+
+📱 Android Developer Virtual Intern — Google / AICTE EduSkills
+
+Apr 2025 – Jun 2025
+
+🧠 Completed a Google-certified Android development program under AICTE EduSkills.
+
+🔹 Built functional Android apps using Flutter with state management 🔹 Followed Material Design guidelines for UI/UX 🔹 Developed real-world apps: Calculator and To-Do List 🔹 Applied best practices in cross-platform mobile development
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=header&text=Projects&fontSize=35&fontColor=00ffcc"/> </p> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;AI+Applications;Full+Stack+Platforms;Creative+Developer"/> </div>
+🕵️ DEEPKILL — Advanced Deepfake Detection Platform
+
+An advanced multi-modal AI system for detecting deepfakes, morphed faces, and AI-generated images.
+
+⚙ Tech Stack Python • TensorFlow • Flask • OpenCV • Computer Vision
+
+✨ Features 🔹 3-model ensemble architecture: EfficientNet, Xception, ResNet50V2 🔹 Detects deepfakes, morphed faces, and AI-generated images 🔹 Flask-based web interface for real-time inference and result visualization 🔹 End-to-end computer vision pipeline
+
+🏥 MediSense AI — Intelligent Healthcare Assistant
+
+An AI-powered healthcare assistant fine-tuned for medical Q&A and health guidance with rigorous safety evaluation.
+
+⚙ Tech Stack Next.js • FastAPI • Python • Phi-3 (LoRA Fine-Tuning) • Cloudflare
+
+✨ Features 🔹 Fine-tuned Phi-3 using LoRA for specialized medical Q&A 🔹 Real-time streaming responses via ChatGPT-style interface 🔹 Custom 75-case evaluation benchmark (Drug Confusion, Rare Disease, Symptom Ambiguity) 🔹 Benchmark pass rate improved: 12.0% → 21.3% | Drug Confusion: 28% → 48% 🔹 ROUGE-2 improved from 0.142 → 0.155 with reduced critical failure cases
+
+🧘 Aura AI — Offline AI Wellness Companion
+
+A fully offline AI chatbot for mental wellness support with no internet dependency.
+
+⚙ Tech Stack HTML • CSS • JavaScript • Python • NLP (offline models)
+
+✨ Features 🔹 Fully offline — no internet connectivity required 🔹 Context-aware conversational logic with Python NLP libraries 🔹 Responsive JavaScript frontend 🔹 Designed for private, accessible mental wellness support
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:000000&height=120&section=header&text=GitHub+Stats&fontSize=40&fontColor=00ffcc"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishM-0786&theme=tokyonight"/> <br> <a href="https://github.com/AnishM-0786"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnishM-0786&theme=radical" alt="Anish's GitHub Contribution"/> </a> <br> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishM-0786&custom_title=Anish's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00ffcc&line=00ffcc&point=00ffcc&area_color=FFFFFF&title_color=FFFFFF&area=true"/> </p> </p>
+🚀 LeetCode Stats
+<p align="center"> <img src="https://leetcard.jacoblin.cool/anish-lc?theme=dark&font=baloo&ext=contest"/> </p>
+
+⚠️ Replace anish-lc above with your actual LeetCode username.
+
+🏆 Certifications
+
+🔹 Programming Essentials in C — Cisco Networking Academy (Nov 2025) 🔹 Introduction to Cybersecurity — Cisco Networking Academy (Nov 2025) 🔹 CCNA: Introduction to Networking — Cisco Networking Academy (Nov 2025) 🔹 Programming Essentials in Python (PCAP) — Cisco Networking Academy 🔹 Internet of Things (IoT) & Data Analytics Using Python — NPTEL 🔹 AI Fundamentals — ServiceNow 🔹 Claude Fundamentals and Agent Workflows — Anthropic
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"> </picture>
+📬 Contact
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=Let's+Build+Something+Amazing;Open+For+Collaboration;Connect+With+Me"/> </div>
+
+📧 Email: anishm.cse2024@citchennai.net
+
+📱 Phone: +91-7358972320
+
+💼 LinkedIn: linkedin.com/in/anish-m-1b1ab4329
+
+🐙 GitHub: github.com/AnishM-0786
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=120&section=footer"/> </p>
