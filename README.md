@@ -164,7 +164,7 @@ A fully offline AI chatbot for mental wellness support with no internet dependen
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=Let's+Build+Something+Amazing;Open+For+Collaboration;Connect+With+Me"/>
 </div>
 
-📧 Email: anishm.cse2024@citchennai.net
+📧 Email: anishmb0786@gmail.com
 📱 Phone: +91-7358972320
 💼 LinkedIn: linkedin.com/in/anish-m-1b1ab4329
 🐙 GitHub: github.com/AnishM-0786
