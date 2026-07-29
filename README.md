@@ -93,7 +93,7 @@ A fully offline AI chatbot for mental wellness support with no internet dependen
 🔹 Context-aware conversational logic with Python NLP libraries
 🔹 Responsive JavaScript frontend
 🔹 Designed for private, accessible mental wellness support
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:000000&height=120&section=header&text=GitHub+Stats&fontSize=40&fontColor=00ffcc"/> </p> <!-- 🐍 GITHUB CONTRIBUTION SNAKE ANIMATION --> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" /> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" /> </picture> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:000000&height=120&section=header&text=GitHub+Stats&fontSize=40&fontColor=00ffcc"/> </p> <!-- 🐍 SLITHERING SNAKE ANIMATION --> <p align="center"> <img src="https://media.giphy.com/media/ckO89fN7qXhcY2yBVu/giphy.gif" width="400" alt="slithering snake animation"/> </p>
 
 🚀 LeetCode Stats
 
